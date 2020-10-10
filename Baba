@@ -61,8 +61,8 @@ logo ="""
 Qaiser\033[1;92m---------------------------------Abbas----------------------------
                 E R R O R - FIXED UPDATED COMMAND 0.1v
 \x1b[1;96m-->YouTube  : Qaiser Tech *(New channel)
-\x1b[1;95m-->Facebook : Qaiser Abbas
-\x1b[1;94--> Github   : https://github.com/TechQaiser
+\x1b[1;95m-->Facebook : BILALO DADX
+\x1b[1;94--> Github   : https:/github.com/BADAMALA302/BILALO
 \x1b[1;92m--> Note     : It is only for educational purpose 
 
 \033[1;93m──────▄▄▄▄▄███████████████████▄▄▄▄▄──────
@@ -95,8 +95,8 @@ vuln = "\033[32mVuln"
 os.system("clear")
 print logo
 
-CorrectUsername = "Qaiser"
-CorrectPassword = "Tech"
+CorrectUsername = "BILALO"
+CorrectPassword = "DADX"
 
 loop = 'true'
 while (loop == 'true'):
